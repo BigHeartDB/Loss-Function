@@ -48,15 +48,7 @@
 > Most of the corresponding tensorflow code can be found [here](https://github.com/NifTK/NiftyNet/blob/dev/niftynet/layer/loss_segmentation.py).
 
 
-## Including the following [citation](https://arxiv.org/abs/2005.13449) in your work would be highly appreciated.
 
-```
-@article{SegLossOdyssey,
-  title={Segmentation Loss Odyssey},
-  author={Ma Jun},
-  journal={arXiv preprint arXiv:2005.13449},
-  year={2020}
-}
-```
+
 
 
